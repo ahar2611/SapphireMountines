@@ -3,7 +3,7 @@
         "version": "1.0.0",
         "name": "SapphireMountains",
         "author": "Lanney",
-        "updater": ""
+        "updater": "https://raw.githubusercontent.com/ahar2611/SapphireMountines/main/SapphireMountains.json"
     },
     "background": {
         "url": "https:\/\/media.discordapp.net\/attachments\/803090285470154755\/913710267198738442\/mountain-nawpic-5.jpg",
