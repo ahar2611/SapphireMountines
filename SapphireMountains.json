@@ -1,0 +1,41 @@
+{
+    "manifest": {
+        "version": "1.0.0",
+        "name": "SapphireMountains",
+        "author": "Lanney",
+        "updater": ""
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/803090285470154755\/913710267198738442\/mountain-nawpic-5.jpg",
+        "blur_radius": 2
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/803090285470154755\/913740992203620382\/Nunito-ExtraBold.ttf"
+    },
+    "simple_colors": {
+        "background": 0,
+        "background_secondary": 385875968,
+        "input_background": 1040187393,
+        "accent": -13209601,
+        "mention_highlight": 644912349,
+        "active_channel": 2115838785
+    },
+    "colors": {
+        "link": -10191147,
+        "primary_dark_300": -14527284,
+        "primary_dark_200": -4668463,
+        "primary_dark_400": -7827310,
+        "primary_dark_800": 385875968,
+        "uikit_btn_bg_color_selector_red": -14527284,
+        "uikit_settings_item_text_color_dark": -4669231
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_off_dark_24dp": -14527284,
+        "ic_sidebar_notifications_on_dark_24dp": -14527284,
+        "ic_sidebar_pins_off_dark_24dp": -14527284,
+        "ic_sidebar_pins_on_dark_24dp": -14527284,
+        "ic_sidebar_search_24dp": -14527284,
+        "ic_thread": -14527284
+    },
+    "raws": {}
+}
